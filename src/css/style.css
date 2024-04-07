@@ -1,0 +1,299 @@
+* {
+    margin: 0;
+}
+
+.bg-primary {
+    background-color: #FD6E0A;
+}
+
+nav {
+    margin-top: 15px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+.menu{
+    margin-top: 30px;
+}
+.logo {
+    width: 300px;
+    font-weight: bold;
+    font-family: open sans;
+    font-size: 45px;
+}
+span {
+    color: #fd6e0a;
+}
+
+ul li {
+    display: inline;
+    padding: 10px 30px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 400;
+}
+
+a.hireme.bg-primary {
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* Navbar End */
+
+.hero-section{
+    display: flex;
+}
+.about{
+    width: 585px;
+}
+.description p {
+    color: #757575;
+}
+
+h1.hi {
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 45px;
+    color: #474747;
+}
+
+h1.name {
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-size: 85px;
+    color: #181818;
+}
+
+.about {
+    width: 585px;
+    margin-left: 85px;
+    margin-top: 110px;
+}
+.hero_btn{
+    margin-top: 40px;
+}
+a.download {
+    background: #fd6e0a;
+    padding: 16px 10px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+a.contact {
+    text-decoration: none;
+    padding: 15px 16px;
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.developer {
+    margin-left: 15px;
+}
+.images{
+    margin-top: 20px;
+}
+
+.fa-solid, .fas {
+    font-weight: 900;
+    padding-right: 8px;
+}
+
+.heder{
+    margin-top: 180px;
+    font-size: bold;
+    text-align: center;
+}
+
+.coler{
+    color: #757575;
+}
+.From{
+    font-size: 20px;
+    padding-top: 30px;
+    color: #757575;
+}
+
+.name{
+    font-size: 20px;
+    padding: 30px;
+    color: #181818;
+    
+}
+
+.heder{
+    padding: 10px;
+}
+.paragarap{
+    padding: 10px;
+    color: #757575;
+}
+
+
+
+.main-mig{
+margin-right: 750px;
+padding-top: 20px;
+
+    
+
+}
+.heder-n{
+  margin-bottom: 50px;
+}
+
+.skill-derocktori{
+    color: #757575;
+}
+
+.skills-title{
+    color: #181818;
+    font-size: larger;
+    padding: 5px 5px 10px 5px;
+}
+
+.skills-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    
+}
+
+.bold-heder{
+    margin-top: 120px;
+}
+
+.rusame-column{
+    margin-left: 300px;
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+   
+    
+}
+
+.resume-itme{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+section{
+    display: flex;
+    padding-top: 200px;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.resume-itme{
+  margin-left: 50px;
+  padding: 20px 20px 20px 20px;
+  
+}
+
+.bold-heder{
+    margin-left: 500px;
+    font-weight: lighter;
+    font-size: larger;
+}
+.resume-column-title{
+    margin-left: 100px;
+    font-weight: bolder;
+  font-size: larger;
+}
+
+.resume-info{
+    color: #474747;
+}
+.resume-itme-description{
+    color: #757575;
+}
+
+section{
+    gap: 20px;
+}
+
+/* .download-cv{
+    font-weight: 200;
+    margin-left: 500px;
+    
+    
+} */
+a.DOWNLOAD-cs{
+    background: #fd6e0a;
+    padding: 16px 10px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+
+a.DOWNLOAD-cs{
+ margin-left: 500px;
+
+}
+.Footer-s{
+    display: flex;
+
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: larger;
+    
+}
+
+.Footer-sterd{
+    margin-left: 400px;
+}
+
+.Footer-se{
+    margin-left: 50px;
+}
+footer{
+    text-align: left;
+    margin-left: 200px;
+    padding-top: 20px;
+}
+
+.icon-img{
+    margin-top: 30px;
+    font-size: small;
+}
+
+.submit-b a{
+    text-decoration: none;
+    background: #fd6e0a;
+    padding: 16px 10px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.input-data{
+    margin-left: 600px;
+    
+}
+
+.submit-b{
+    margin-left: 600px;
+    padding-top: 100px ;
+}
+
